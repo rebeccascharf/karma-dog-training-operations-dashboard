@@ -104,4 +104,4 @@ View the live Tableau dashboard here:
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.jpg)
+![Dashboard Overview](dashboard_overview.jpg)
